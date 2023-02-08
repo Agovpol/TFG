@@ -10,3 +10,5 @@ Este proyecto lo desarrollé durante el mes de *marzo-abril* del curso académic
 - **TFG.mp4** es el vídeo que proyecté durante mi defensa del Trabajo para que se entendiese con mayor facilidad el funcionamiento del dispositivo y se comprobase en tiempo real cómo se iba interactuando con él.
 - En la carpeta **Buttons** se pueden encontrar todos los botones utilizados para la pantalla táctil.
 - En la carpeta **Modelo3D** se encuentran los archivos que mandé a imprimir en 3D para posteriormente montar la carcasa y dejar el OpenDeck con un mejor acabado.
+
+![alt text](https://github.com/Agovpol/TFG_OpenDeck/blob/main/OpenDeck_v1.png?raw=true)
